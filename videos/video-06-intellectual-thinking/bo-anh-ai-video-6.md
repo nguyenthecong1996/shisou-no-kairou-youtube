@@ -3,7 +3,7 @@
 > **Chủ đề:** 【思考心理学】本当に頭が良い人は、普段何を考えているのか？凡人と決定的に異なる「脳内独白」と本質思考の正体  
 > **Visual Style:** Dark Academia x Tokyo Noir (Rembrandt / Chiaroscuro lighting, vintage mahogany & leather, rainy Tokyo bokeh)  
 > **Tỷ lệ khung hình:** 16:9 (`--ar 16:9`)  
-> **Trạng thái:** **11 / 15 Phân cảnh đã hoàn thành** (Đang tạm dừng do chạm trần quota API 429, dự kiến reset sau ~4h53m).
+> **Trạng thái:** **16 / 16 Ảnh đã hoàn thành 100%** (1 Thumbnail Master + 15 Cuts phân cảnh độc bản chuẩn Dark Academia x Tokyo Noir).
 
 ---
 
@@ -141,48 +141,40 @@
 
 ---
 
-### ⏳ Cut 12: Bộ câu hỏi độ phân giải cao (High-Order Questions)
-* **Trạng thái:** ⏳ Đang chờ Quota API reset (~4h53m)
-* **Tên file dự kiến:** `v6_cut12_high_order_questions.jpg`
-* **Prompt đã sẵn sàng:**
-  ```text
-  Cinematic 16:9 shot. An antique heavy brass skeleton key resting atop an ancient celestial atlas with hand-drawn constellations and golden zodiac alignments. In the background, a massive pair of arched wooden library doors slightly ajar, spilling warm amber light from an endless labyrinth of illuminated bookshelves. Sense of grand discovery, high intellect, mystery, Dark Academia Tokyo Noir
-  ```
+### ✅ Cut 12: Bộ câu hỏi độ phân giải cao (High-Order Questions)
+* **File:** `/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut12_high_order_questions.jpg`
+* **Nội dung:** Chiếc chìa khóa cổ bằng đồng đặt trên bản đồ sao cổ đại, mở ra cánh cửa dẫn vào mê cung thư viện sách vô tận ngập tràn ánh sáng hổ phách.
+* **Prompt:** `Cinematic 16:9 shot. An antique heavy brass skeleton key resting atop an ancient celestial atlas with hand-drawn constellations and golden zodiac alignments. In the background, a massive pair of arched wooden library doors slightly ajar, spilling warm amber light from an endless labyrinth of illuminated bookshelves. Sense of grand discovery, high intellect, mystery, Dark Academia Tokyo Noir`
+
+![Cut 12 - High Order Questions](/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut12_high_order_questions.jpg)
 
 ---
 
-### ⏳ Cut 13: Sự khiêm nhường trí tuệ (Intellectual Humility)
-* **Trạng thái:** ⏳ Đang chờ Quota API reset (~4h53m)
-* **Tên file dự kiến:** `v6_cut13_intellectual_humility.jpg`
-* **Prompt đã sẵn sàng:**
-  ```text
-  Cinematic 16:9 wide atmospheric shot. A solitary, dignified Japanese scholar wrapped in a wool coat standing quietly at the edge of a rocky coastline at twilight, looking out toward the vast, endless dark ocean horizon beneath a faint crescent moon. In the foreground, golden wild wheat stalks bow gently in the sea breeze. Profound humbleness before the infinite unknown, cinematic, philosophical, Dark Academia
-  ```
+### ✅ Cut 13: Sự khiêm nhường trí tuệ (Intellectual Humility)
+* **File:** `/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut13_intellectual_humility.jpg`
+* **Nội dung:** Học giả Nhật Bản đứng tĩnh lặng bên bờ đá lúc hoàng hôn, ngắm nhìn đại dương vô tận dưới trăng lưỡi liềm, những bông lúa cúi đầu nhẹ lay trong gió biển.
+* **Prompt:** `Cinematic 16:9 wide atmospheric shot. A solitary, dignified Japanese scholar wrapped in a wool coat standing quietly at the edge of a rocky coastline at twilight, looking out toward the vast, endless dark ocean horizon beneath a faint crescent moon. In the foreground, golden wild wheat stalks bow gently in the sea breeze. Profound humbleness before the infinite unknown, cinematic, philosophical, Dark Academia`
+
+![Cut 13 - Intellectual Humility](/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut13_intellectual_humility.jpg)
 
 ---
 
-### ⏳ Cut 14: Ứng dụng thực tiễn: 3 kỹ thuật tái lập trình tư duy
-* **Trạng thái:** ⏳ Đang chờ Quota API reset (~4h53m)
-* **Tên file dự kiến:** `v6_cut14_practical_implementation.jpg`
-* **Prompt đã sẵn sàng:**
-  ```text
-  Cinematic 16:9 tabletop still life. A neatly organized dark walnut executive desk in morning Tokyo light. An open Midori leather notebook with three clean bullet points handwritten in blue-black Pilot fountain pen ink. Beside it sits a vintage mechanical stopwatch, a steaming ceramic mug of green tea, and a clear glass paperweight catching dawn sunlight. Clarity, actionable wisdom, disciplined habit, Dark Academia
-  ```
+### ✅ Cut 14: Ứng dụng thực tiễn: 3 kỹ thuật tái lập trình tư duy (Practical Implementation)
+* **File:** `/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut14_practical_implementation.jpg`
+* **Nội dung:** Bàn làm việc gỗ óc chó ngăn nắp trong ánh sớm Tokyo, sổ da Midori với 3 gạch đầu dòng (Clarity, Action, Discipline), đồng hồ cơ bấm giờ kim loại, tách trà xanh bốc khói.
+* **Prompt:** `Cinematic 16:9 tabletop still life. A neatly organized dark walnut executive desk in morning Tokyo light. An open Midori leather notebook with three clean bullet points handwritten in blue-black Pilot fountain pen ink. Beside it sits a vintage mechanical stopwatch, a steaming ceramic mug of green tea, and a clear glass paperweight catching dawn sunlight. Clarity, actionable wisdom, disciplined habit, Dark Academia`
+
+![Cut 14 - Practical Implementation](/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut14_practical_implementation.jpg)
 
 ---
 
-### ⏳ Cut 15: Trầm tư đêm vắng: Bước vào thánh địa Nội tâm
-* **Trạng thái:** ⏳ Đang chờ Quota API reset (~4h53m)
-* **Tên file dự kiến:** `v6_cut15_tokyo_night_solitude.jpg`
-* **Prompt đã sẵn sàng:**
-  ```text
-  Cinematic 16:9 wide shot. An attic study high above Tokyo at midnight. Large floor-to-ceiling wooden framed window revealing the breathtaking Tokyo skyline with glowing red aircraft warning lights and distant Tokyo Tower through rain-slicked glass. Inside, a plush leather armchair beside a glowing floor lamp, an acoustic gramophone, and an aromatic candle giving off a thin wisp of fragrant smoke. Absolute sanctuary of peaceful introspection, Dark Academia Tokyo Noir masterpiece
-  ```
+### ✅ Cut 15: Trầm tư đêm vắng & Thánh địa nội tâm (Tokyo Night Solitude)
+* **File:** `/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut15_tokyo_night_solitude.jpg`
+* **Nội dung:** Căn phòng áp mái nhìn ra toàn cảnh đường chân trời Tokyo nửa đêm dưới mưa, tháp Tokyo lung linh trong ánh sương mờ, ghế bành bọc da ấm áp, máy hát đĩa than cổ và nến thơm.
+* **Prompt:** `Cinematic 16:9 wide shot. An attic study high above Tokyo at midnight. Large floor-to-ceiling wooden framed window revealing the breathtaking Tokyo skyline with glowing red aircraft warning lights and distant Tokyo Tower through rain-slicked glass. Inside, a plush leather armchair beside a glowing floor lamp, an acoustic gramophone, and an aromatic candle giving off a thin wisp of fragrant smoke. Absolute sanctuary of peaceful introspection, Dark Academia Tokyo Noir masterpiece`
+
+![Cut 15 - Tokyo Night Solitude](/home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut15_tokyo_night_solitude.jpg)
 
 ---
 
-## 📊 Tổng Kết & Hướng Dẫn Tiếp Theo
 
-1. **Số lượng ảnh đã tạo thành công:** **11 / 15 cuts** (tương đương **73.3%** tiến độ bộ ảnh).
-2. **Chất lượng hình ảnh:** Toàn bộ ảnh đều đạt chuẩn 16:9, tuân thủ xuất sắc triết lý mỹ thuật **Dark Academia x Tokyo Noir**, có tính tương phản cao, bố cục mẫu mực để phóng to Ken Burns chuyển động mượt mà.
-3. **Kế hoạch cho 4 cuts còn lại:** Khi quota reset sau khoảng 4h53m, tiến hành gọi `generate_image` cho 4 prompt của Cut 12, Cut 13, Cut 14, và Cut 15 để hoàn tất trọn bộ 15 cuts.

@@ -443,6 +443,7 @@ Chính thái độ buông bỏ Ego ấy đã ban tặng cho họ tốc độ h�
 ### 【CUT 12】 高解像度の問い（High-Order Questions）：問いの質が人生を決める (Bộ câu hỏi độ phân giải cao)
 * **Thời lượng:** [14:58 - 16:19] (81.0 giây)
 * **Ý tưởng Visual:** Chiếc chìa khóa vàng cổ điển mở toang cánh cửa dẫn vào thư viện ánh sáng. Kính thiên văn hướng lên bầu trời đêm rực rỡ dải ngân hà.
+* **Hình ảnh AI độc bản:** [v6_cut12_high_order_questions.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut12_high_order_questions.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 古代ギリシャの哲学者ソクラテスが示したように、思考とは煎じ詰めれば「自問自答」の技術です。  
@@ -481,6 +482,7 @@ Trước khi cất bước đi tìm câu trả lời, họ luôn dùng toàn b�
 ### 【CUT 13】 「知的謙虚さ（Intellectual Humility）」という究極の境地 (Sự khiêm nhường trí tuệ)
 * **Thời lượng:** [16:19 - 17:41] (82.0 giây)
 * **Ý tưởng Visual:** Nhà hiền triết đứng trước đại dương bao la lúc bình minh. Hình ảnh bông lúa chín vàng trĩu hạt cúi đầu khiêm nhường trước gió thu.
+* **Hình ảnh AI độc bản:** [v6_cut13_intellectual_humility.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut13_intellectual_humility.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 ここで、知性に関する最も美しく、逆説的な真実に触れなければなりません。  
@@ -519,6 +521,7 @@ Chính "Sự khiêm nhường trí tuệ" (Intellectual Humility) này mới là
 ### 【CUT 14】 日常への実装法：脳内独白を書き換える3つの実践技術 (Ứng dụng thực tiễn: 3 kỹ thuật tái lập trình tư duy)
 * **Thời lượng:** [17:41 - 19:02] (81.0 giây)
 * **Ý tưởng Visual:** Bàn làm việc gỗ sồi ngăn nắp với cuốn sổ tay bìa da, ngòi bút máy Pilot lướt êm trên giấy và chiếc đồng hồ bấm giờ kim loại.
+* **Hình ảnh AI độc bản:** [v6_cut14_practical_implementation.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut14_practical_implementation.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 では、私たち凡人が、明日からの日常において彼らの思考習慣を取り入れるには、具体的にどうすればよいのでしょうか。  
@@ -563,6 +566,7 @@ Sự tinh chỉnh vi mô mỗi ngày ấy sẽ âm thầm đấu nối lại cá
 ### 【CUT 15】 静かな夜の思索：内省という名の聖域へ (Trầm tư đêm vắng: Bước vào thánh địa Nội tâm)
 * **Thời lượng:** [19:02 - 20:30] (88.0 giây)
 * **Ý tưởng Visual:** Căn phòng gác mái nhìn ra biển đêm Tokyo lung linh ánh sáng sau cơn mưa rào. Ngọn nến thơm tỏa hương ấm áp bên tách trà thảo mộc đang bốc làn khói nhẹ.
+* **Hình ảnh AI độc bản:** [v6_cut15_tokyo_night_solitude.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut15_tokyo_night_solitude.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 今夜は、本当に頭が良い人々がその脳内で繰り広げている、深淵なる思考の秘密を巡ってきました。  

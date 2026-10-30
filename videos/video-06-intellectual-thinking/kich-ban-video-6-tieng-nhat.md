@@ -445,7 +445,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット12】 [14:58 - 16:19] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 12.1 [14:58 - 15:14]:** 🌟 **AI画像:** `v6_cut12_high_order_questions.jpg` (Chìa khóa vàng cổ điển mở ra cánh cửa dẫn vào thư viện ánh sáng vô tận).
+  * **Clip 12.1 [14:58 - 15:14]:** 🌟 **AI画像:** [v6_cut12_high_order_questions.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut12_high_order_questions.jpg) (Chìa khóa vàng cổ điển mở ra cánh cửa dẫn vào thư viện ánh sáng vô tận).
   * **Clip 12.2 [15:14 - 15:30]:** 🎬 **Pexels:** Kính thiên văn hướng lên bầu trời đêm lấp lánh dải ngân hà (`telescope pointed starry night sky galaxy`).
   * **Clip 12.3 [15:30 - 15:47]:** 🎬 **Video-AC:** Ngòi bút chấm mực vẽ dấu hỏi lớn đầy tính nghệ thuật trên giấy thủ công (`万年筆 クエスチョンマーク 疑問 和紙 書く`).
   * **Clip 12.4 [15:47 - 16:03]:** 🌟 **AI画像:** Mê cung cổ xưa nhìn từ trên cao với lối thoát rõ mồn một.
@@ -474,7 +474,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット13】 [16:19 - 17:41] (82.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 13.1 [16:19 - 16:35]:** 🌟 **AI画像:** `v6_cut13_intellectual_humility.jpg` (Nhà hiền triết đứng trước bờ đại dương mênh mông lúc bình minh buông xuống).
+  * **Clip 13.1 [16:19 - 16:35]:** 🌟 **AI画像:** [v6_cut13_intellectual_humility.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut13_intellectual_humility.jpg) (Nhà hiền triết đứng trước bờ đại dương mênh mông lúc bình minh buông xuống).
   * **Clip 13.2 [16:35 - 16:51]:** 🎬 **Pexels:** Bông lúa chín vàng trĩu hạt cúi đầu khiêm nhường trước gió thu (`golden rice ears bending humility autumn wind`).
   * **Clip 13.3 [16:51 - 17:08]:** 🎬 **Video-AC:** Bác học già mỉm cười gật đầu lắng nghe câu hỏi của người trẻ tuổi (`老学者 若者 話を聞く 頷く 謙虚 笑顔`).
   * **Clip 13.4 [17:08 - 17:24]:** 🌟 **AI画像:** Bức tượng Socrates bằng thạch cao bên cuốn sách mở phủ đầy bụi tri thức.
@@ -503,7 +503,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット14】 [17:41 - 19:02] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 14.1 [17:41 - 17:57]:** 🌟 **AI画像:** `v6_cut14_practical_implementation.jpg` (Bàn làm việc gỗ với cuốn sổ da, bút máy Pilot và đồng hồ cơ bấm giờ).
+  * **Clip 14.1 [17:41 - 17:57]:** 🌟 **AI画像:** [v6_cut14_practical_implementation.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut14_practical_implementation.jpg) (Bàn làm việc gỗ với cuốn sổ da, bút máy Pilot và đồng hồ cơ bấm giờ).
   * **Clip 14.2 [17:57 - 18:13]:** 🎬 **Video-AC:** Người đàn ông dừng lại hít một hơi sâu trước khi bước vào phòng họp (`男 深呼吸 落ち着く 会議室 前`).
   * **Clip 14.3 [18:13 - 18:30]:** 🎬 **Pexels:** Bàn tay viết 3 gạch đầu dòng ngắn gọn lên trang giấy trắng tinh (`hand writing three bullet points clean journal`).
   * **Clip 14.4 [18:30 - 18:46]:** 🌟 **AI画像:** Tấm gương trong suốt phản chiếu ánh sáng ban mai rạng rỡ.
@@ -535,7 +535,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット15】 [19:02 - 20:30] (88.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 15.1 [19:02 - 19:20]:** 🌟 **AI画像:** `v6_cut15_tokyo_night_solitude.jpg` (Căn phòng áp mái nhìn ra toàn cảnh Tokyo rực rỡ ánh đèn đêm sau cơn mưa).
+  * **Clip 15.1 [19:02 - 19:20]:** 🌟 **AI画像:** [v6_cut15_tokyo_night_solitude.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut15_tokyo_night_solitude.jpg) (Căn phòng áp mái nhìn ra toàn cảnh Tokyo rực rỡ ánh đèn đêm sau cơn mưa).
   * **Clip 15.2 [19:20 - 19:37]:** 🎬 **Pexels:** Ngọn nến thơm tỏa hương ấm áp bên tách trà thảo mộc đang bốc khói (`aromatherapy candle herbal tea relaxing steam`).
   * **Clip 15.3 [19:37 - 19:55]:** 🎬 **Video-AC:** Học giả khép cuốn sách dày, nhìn ra màn đêm với nụ cười thanh thản (`本を閉じる 学者 夜景 微笑み 穏やか`).
   * **Clip 15.4 [19:55 - 20:12]:** 🌟 **AI画像:** Biểu tượng kênh 思索の回廊 phát sáng nhẹ nhàng như vầng trăng khuyết.
