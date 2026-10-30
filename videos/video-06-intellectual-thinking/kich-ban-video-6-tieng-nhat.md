@@ -110,6 +110,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 # PHẦN II: THIẾT KẾ THUMBNAIL (CTR > 20%)
 
+** **File Thumbnail độc bản đã tạo:** [thumbnail_video_6_thinking_psychology_1793350503109.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/thumbnail_video_6_thinking_psychology_1793350503109.jpg)
 * **Visual Concept:** Chiaroscuro Tokyo Noir (Không gian thư viện học giả cổ điển chìm trong bóng tối huyền bí. Bên phải là góc chụp cận cảnh một trí thức trung niên Nhật Bản ngồi trầm tư bên ngọn đèn dầu cổ, ánh mắt sâu thẳm nhìn thấu vạn vật. Bên cạnh là cuốn sổ da mở sẵn với sơ đồ tư duy hình học phát sáng mờ ảo. Phía sau là cửa sổ nhìn ra mưa đêm Tokyo lấp lánh).
 * **Bố cục tỉ lệ vàng (1/3 - 2/3):**
   * **Bên phải (1/3):** Chân dung học giả và ánh sáng ấm áp của ngọn đèn dầu, tạo chiều sâu thị giác hút mắt người xem.
@@ -127,7 +128,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット1】 [00:00 - 01:22] (82.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 1.1 [00:00 - 00:17]:** 🌟 **AI画像:** `v6_cut1_tokyo_night_cafe.jpg` (Học giả ngồi trầm tư trong quán cà phê đêm Tokyo mờ ảo bên tách phin nguội).
+  * **Clip 1.1 [00:00 - 00:17]:** 🌟 **AI画像:** [v6_cut1_tokyo_night_cafe_1793350587492.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut1_tokyo_night_cafe_1793350587492.jpg) (Học giả ngồi trầm tư trong quán cà phê đêm Tokyo mờ ảo bên tách phin nguội).
   * **Clip 1.2 [00:17 - 00:33]:** 🎬 **Video-AC:** Dòng người tấp nập giao lộ Shibuya lúc chập tối (`渋谷 交差点 夜 人混み 傘`).
   * **Clip 1.3 [00:33 - 00:49]:** 🎬 **Pexels:** Giọt mưa đêm lăn dài trên ô cửa kính ánh đèn xe vàng (`tokyo rain window night car reflections`).
   * **Clip 1.4 [00:49 - 01:05]:** 🌟 **AI画像:** Đèn bàn cổ hắt bóng người đọc sách bên đống ghi chép phủ bụi.
@@ -156,7 +157,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット2】 [01:22 - 02:44] (82.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 2.1 [01:22 - 01:39]:** 🌟 **AI画像:** `v6_cut2_internal_monologue.jpg` (Bản vẽ hai nửa não bộ: một bên rối bời tơ vò u tối, một bên cấu trúc hình học sáng rõ).
+  * **Clip 2.1 [01:22 - 01:39]:** 🌟 **AI画像:** [v6_cut2_internal_monologue_1793350607563.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut2_internal_monologue_1793350607563.jpg) (Bản vẽ hai nửa não bộ: một bên rối bời tơ vò u tối, một bên cấu trúc hình học sáng rõ).
   * **Clip 2.2 [01:39 - 01:55]:** 🎬 **Pexels:** Ngón tay gõ nhịp sốt ruột bên chiếc điện thoại thông minh (`nervous fingers typing phone anxiety`).
   * **Clip 2.3 [01:55 - 02:11]:** 🎬 **Video-AC:** Người đàn ông nhìn xa xăm trên chuyến tàu điện đêm muộn (`通勤電車 窓の外 夜景 サラリーマン 疲労`).
   * **Clip 2.4 [02:11 - 02:27]:** 🌟 **AI画像:** Sổ tay da mở với những khối tư duy hình hộp kết nối logic.
@@ -184,7 +185,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット3】 [02:44 - 04:05] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 3.1 [02:44 - 03:00]:** 🌟 **AI画像:** `v6_cut3_first_principles.jpg` (Bàn đá cẩm thạch với tượng Aristotle và các hình khối cơ bản phát sáng).
+  * **Clip 3.1 [02:44 - 03:00]:** 🌟 **AI画像:** [v6_cut3_first_principles_1793350630749.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut3_first_principles_1793350630749.jpg) (Bàn đá cẩm thạch với tượng Aristotle và các hình khối cơ bản phát sáng).
   * **Clip 3.2 [03:00 - 03:16]:** 🎬 **Pexels:** Bàn tay tháo rời từng bộ phận của chiếc đồng hồ cơ khí cổ (`disassembling vintage pocket watch gears`).
   * **Clip 3.3 [03:16 - 03:32]:** 🎬 **Video-AC:** Kỹ sư Nhật tỉ mỉ đo đạc từng milimet trên bản vẽ cơ khí (`技術者 図面 測定 設計 日本人`).
   * **Clip 3.4 [03:32 - 03:48]:** 🌟 **AI画像:** Cấu trúc hình học cơ bản tỏa sáng từ đống tro tàn của sự rườm rà.
@@ -212,7 +213,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット4】 [04:05 - 05:28] (83.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 4.1 [04:05 - 04:22]:** 🌟 **AI画像:** `v6_cut4_feynman_technique.jpg` (Nhà vật lý Richard Feynman giảng giải bản chất vũ trụ qua hình vẽ chú chim đơn sơ).
+  * **Clip 4.1 [04:05 - 04:22]:** 🌟 **AI画像:** [v6_cut4_feynman_technique_1793350652695.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut4_feynman_technique_1793350652695.jpg) (Nhà vật lý Richard Feynman giảng giải bản chất vũ trụ qua hình vẽ chú chim đơn sơ).
   * **Clip 4.2 [04:22 - 04:38]:** 🎬 **Video-AC:** Ông lão hiền từ mỉm cười trò chuyện cùng đứa trẻ bên hiên nhà (`祖父 孫 縁側 会話 笑顔 穏やか`).
   * **Clip 4.3 [04:38 - 04:55]:** 🎬 **Pexels:** Ngòi bút máy viết chậm rãi từng từ ngữ trong sáng trên giấy kẻ (`fountain pen writing clear words vintage paper`).
   * **Clip 4.4 [04:55 - 05:11]:** 🌟 **AI画像:** Chồng từ điển thuật ngữ rắc rối bị đóng lại, nhường chỗ cho sơ đồ tinh gọn.
@@ -240,7 +241,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット5】 [05:28 - 06:49] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 5.1 [05:28 - 05:44]:** 🌟 **AI画像:** `v6_cut5_cognitive_subtraction.jpg` (Bức tranh điêu khắc bàn tay đang đục đẽo tảng đá thô để lộ viên ngọc sáng rực).
+  * **Clip 5.1 [05:28 - 05:44]:** 🌟 **AI画像:** [v6_cut5_cognitive_subtraction_1793350674711.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut5_cognitive_subtraction_1793350674711.jpg) (Bức tranh điêu khắc bàn tay đang đục đẽo tảng đá thô để lộ viên ngọc sáng rực).
   * **Clip 5.2 [05:44 - 06:00]:** 🎬 **Pexels:** Màn hình điện thoại ngập tràn thông báo tin tức chớp nháy vô nghĩa (`smartphone notifications barrage flashing screen`).
   * **Clip 5.3 [06:00 - 06:16]:** 🎬 **Video-AC:** Bàn tay dứt khoát úp màn hình điện thoại xuống mặt bàn gỗ (`スマホ 画面 伏せる デジタルデトックス`).
   * **Clip 5.4 [06:16 - 06:33]:** 🌟 **AI画像:** Căn phòng trà đạo tối giản chỉ có một bình hoa duy nhất dưới ánh trăng.
@@ -269,7 +270,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット6】 [06:49 - 08:10] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 6.1 [06:49 - 07:05]:** 🌟 **AI画像:** `v6_cut6_munger_latticework.jpg` (Mạng lưới giàn giáo quang học đan xen các định luật vật lý, sinh học, kinh tế).
+  * **Clip 6.1 [06:49 - 07:05]:** 🌟 **AI画像:** [v6_cut6_munger_latticework_1793350703581.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut6_munger_latticework_1793350703581.jpg) (Mạng lưới giàn giáo quang học đan xen các định luật vật lý, sinh học, kinh tế).
   * **Clip 6.2 [07:05 - 07:21]:** 🎬 **Pexels:** Bàn cờ vua cổ điển trong căn phòng sách bọc da Chiaroscuro (`vintage chess board library shadows`).
   * **Clip 6.3 [07:21 - 07:38]:** 🎬 **Video-AC:** Bàn tay lật trang sách bách khoa toàn thư cổ bìa vàng (`古書 ページめくる 百科事典 学術`).
   * **Clip 6.4 [07:38 - 07:54]:** 🌟 **AI画像:** Chiếc lăng kính tách ánh sáng trắng thành quang phổ đa sắc rực rỡ.
@@ -300,7 +301,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット7】 [08:10 - 09:32] (82.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 7.1 [08:10 - 08:26]:** 🌟 **AI画像:** `v6_cut7_inversion_thinking.jpg` (Bức tranh phản chiếu ngược qua mặt nước phẳng lặng của hồ đêm lung linh).
+  * **Clip 7.1 [08:10 - 08:26]:** 🌟 **AI画像:** [v6_cut7_inversion_thinking_1793350731462.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut7_inversion_thinking_1793350731462.jpg) (Bức tranh phản chiếu ngược qua mặt nước phẳng lặng của hồ đêm lung linh).
   * **Clip 7.2 [08:26 - 08:43]:** 🎬 **Video-AC:** Người đi bộ dừng lại trước mép vực phủ sương mù dày đặc (`霧 崖 立ち止まる 男 慎重`).
   * **Clip 7.3 [08:43 - 08:59]:** 🎬 **Pexels:** Bàn cờ tướng với thế phòng thủ kiên cố không thể xuyên thủng (`chess defense strategy impenetrable pieces`).
   * **Clip 7.4 [08:59 - 09:15]:** 🌟 **AI画像:** La bàn cổ định vị con đường an toàn băng qua mê cung bóng tối.
@@ -330,7 +331,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット8】 [09:32 - 10:53] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 8.1 [09:32 - 09:48]:** 🌟 **AI画像:** `v6_cut8_system1_system2.jpg` (Đồng hồ cát cổ bằng đồng với dòng cát vàng phát sáng rực rỡ).
+  * **Clip 8.1 [09:32 - 09:48]:** 🌟 **AI画像:** [v6_cut8_system1_system2_1793350760422.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut8_system1_system2_1793350760422.jpg) (Đồng hồ cát cổ bằng đồng với dòng cát vàng phát sáng rực rỡ).
   * **Clip 8.2 [09:48 - 10:04]:** 🎬 **Pexels:** Cuốn sách Thinking, Fast and Slow mở trên bàn sồi bên ly trà ấm (`vintage book open desk warm lighting`).
   * **Clip 8.3 [10:04 - 10:21]:** 🎬 **Video-AC:** Nhân viên văn phòng mệt mỏi xoa mi tâm giữa hàng tá tài liệu (`サラリーマン 疲労 眉間 押さえる デスクワーク`).
   * **Clip 8.4 [10:21 - 10:37]:** 🌟 **AI画像:** Buồng lái tĩnh lặng của phi công điều hướng bầu trời đêm ngàn sao.
@@ -357,7 +358,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット9】 [10:53 - 12:15] (82.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 9.1 [10:53 - 11:09]:** 🌟 **AI画像:** `v6_cut9_metacognition_mirror.jpg` (Người học giả soi mình vào chiếc gương cổ và mỉm cười tự vấn sâu sắc).
+  * **Clip 9.1 [10:53 - 11:09]:** 🌟 **AI画像:** [v6_cut9_metacognition_mirror_1793350792121.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut9_metacognition_mirror_1793350792121.jpg) (Người học giả soi mình vào chiếc gương cổ và mỉm cười tự vấn sâu sắc).
   * **Clip 9.2 [11:09 - 11:25]:** 🎬 **Pexels:** Kính lúp soi rõ từng đường vân tay và vết mực trên bản thảo (`magnifying glass inspecting text manuscript`).
   * **Clip 9.3 [11:25 - 11:42]:** 🎬 **Video-AC:** Nhà nghiên cứu trầm ngâm ghi chú những điểm hoài nghi vào sổ tay (`研究者 万年筆 メモ 疑問 熟考`).
   * **Clip 9.4 [11:42 - 11:58]:** 🌟 **AI画像:** Cán cân công lý cân đo giữa "Cảm xúc tự ái" và "Dữ liệu khách quan".
@@ -385,7 +386,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット10】 [12:15 - 13:36] (81.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 10.1 [12:15 - 12:31]:** 🌟 **AI画像:** `v6_cut10_incubation_dmn.jpg` (Khu vườn đá thiền tông Ryoanji phủ rêu trong màn sương mỏng buổi sớm).
+  * **Clip 10.1 [12:15 - 12:31]:** 🌟 **AI画像:** [v6_cut10_incubation_dmn_1793350820663.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut10_incubation_dmn_1793350820663.jpg) (Khu vườn đá thiền tông Ryoanji phủ rêu trong màn sương mỏng buổi sớm).
   * **Clip 10.2 [12:31 - 12:47]:** 🎬 **Pexels:** Bước chân thong thả đi dạo trên con đường mòn rừng thông tĩnh lặng (`walking gently through quiet pine forest path`).
   * **Clip 10.3 [12:47 - 13:03]:** 🎬 **Video-AC:** Bọt nước trà xanh lăn tăn nổi lên trong chén gốm mộc mạc (`抹茶 泡 茶道 静寂 心落ち着く`).
   * **Clip 10.4 [13:03 - 13:20]:** 🌟 **AI画像:** Đám mây nơ-ron thần kinh âm thầm kết nối tạo thành tia chớp cảm hứng.
@@ -415,7 +416,7 @@ ffmpeg -i master_concat.mp4 -i storage/bgm/kiss_the_sky_rain.mp3 \
 
 ### 【カット11】 [13:36 - 14:58] (82.0秒)
 * **マルチクリップ構成（計5クリップ / 0%重複）:**
-  * **Clip 11.1 [13:36 - 13:52]:** 🌟 **AI画像:** `v6_cut11_emotional_detachment.jpg` (Bàn tay phẫu thuật viên điềm tĩnh cầm dao mổ dưới ánh đèn tập trung phẫu thuật).
+  * **Clip 11.1 [13:36 - 13:52]:** 🌟 **AI画像:** [v6_cut11_emotional_detachment_1793350850823.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut11_emotional_detachment_1793350850823.jpg) (Bàn tay phẫu thuật viên điềm tĩnh cầm dao mổ dưới ánh đèn tập trung phẫu thuật).
   * **Clip 11.2 [13:52 - 14:08]:** 🎬 **Video-AC:** Cơn bão tuyết gầm thét bên ngoài ô cửa sổ cách âm ấm áp (`吹雪 窓の外 暖かい室内 対比`).
   * **Clip 11.3 [14:08 - 14:25]:** 🎬 **Pexels:** Giọt sáp nến chảy chậm nhưng ngọn lửa vẫn đứng yên thẳng đứng (`candle flame melting wax perfectly still`).
   * **Clip 11.4 [14:25 - 14:41]:** 🌟 **AI画像:** Khối tinh thể kim cương trong suốt không tì vết giữa tro bụi cuộc đời.

@@ -22,6 +22,7 @@
 ### 【CUT 01】 万人の雑音と、静寂に沈む天才の頭脳 (Tạp âm của vạn người và sự tĩnh lặng trong não bộ thiên tài)
 * **Thời lượng:** [00:00 - 01:22] (82.0 giây)
 * **Ý tưởng Visual:** Quán cà phê đêm mưa Tokyo mờ ảo. Đối lập giữa dòng người chen chúc hối hả bên ngoài và một học giả trung niên ngồi tĩnh lặng bên tách cà phê nguội, ánh mắt sâu thẳm nhìn thấu màn đêm.
+* **Hình ảnh AI độc bản:** [v6_cut1_tokyo_night_cafe_1793350587492.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut1_tokyo_night_cafe_1793350587492.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 ふとした瞬間、あなたは不思議に思ったことはないでしょうか。  
@@ -60,6 +61,7 @@ Nó bắt nguồn từ một thứ sâu kín hơn: Bản chất của dòng "nã
 ### 【CUT 02】 脳内独白の残酷な格差：反芻思考 vs 構造思考 (Khoảng cách tàn nhẫn của não nội độc thoại: Tư duy nhai lại vs Tư duy cấu trúc)
 * **Thời lượng:** [01:22 - 02:44] (82.0 giây)
 * **Ý tưởng Visual:** Bản vẽ hai bán cầu não đối lập: Một bên là mớ tơ vò u tối của những dòng suy nghĩ lo âu; một bên là các khối hình học tinh thể kết nối bằng mạng lưới ánh sáng trật tự.
+* **Hình ảnh AI độc bản:** [v6_cut2_internal_monologue_1793350607563.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut2_internal_monologue_1793350607563.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 人間は誰しも、1日に数万回もの内なる言葉、すなわち「脳内独白（インナー・モノローグ）」を交わしながら生きています。  
@@ -96,6 +98,7 @@ Họ đang đối thoại trực tiếp với "quy luật cơ chế" ẩn giấu
 ### 【CUT 03】 第一原理思考：アリストテレスが辿り着いた「原点」 (Tư duy nguyên lý đệ nhất: Khởi điểm của Aristotle & Elon Musk)
 * **Thời lượng:** [02:44 - 04:05] (81.0 giây)
 * **Ý tưởng Visual:** Bàn đá cẩm thạch cổ điển với tượng bán thân Aristotle. Bàn tay kỹ sư tháo rời chiếc đồng hồ cơ khí tinh xảo thành từng bánh răng kim loại trần trụi.
+* **Hình ảnh AI độc bản:** [v6_cut3_first_principles_1793350630749.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut3_first_principles_1793350630749.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 彼らが日常的に用いる最も強力な思考の武器。それが、アリストテレスが提唱し、現代ではイーロン・マスクらが実践する「第一原理思考（ファースト・プリンシプルズ・シンキング）」です。  
@@ -131,6 +134,7 @@ Họ cắm rễ tư duy trực tiếp vào tầng thông tin sơ cấp: các đ�
 ### 【CUT 04】 ファインマン・テクニック：知性の深さは「平易さ」に宿る (Kỹ thuật Feynman: Chiều sâu trí tuệ ngự trị trong sự giản dị)
 * **Thời lượng:** [04:05 - 05:28] (83.0 giây)
 * **Ý tưởng Visual:** Richard Feynman mỉm cười vẽ nguệch ngoạc hình ảnh chú chim bay trên bảng đen. Đối lập với giá sách chất đầy những cuốn từ điển dày cộp từ ngữ bóng bẩy đang bị bụi phủ.
+* **Hình ảnh AI độc bản:** [v6_cut4_feynman_technique_1793350652695.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut4_feynman_technique_1793350652695.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 ノーベル物理学賞を受賞した天才、リチャード・ファインマンは遺しました。  
@@ -166,6 +170,7 @@ Chính vì đã chạm tới cốt lõi, họ tự tin gọt bỏ mọi lớp v�
 ### 【CUT 05】 思考の減算（Cognitive Subtraction）：ノイズを削ぎ落とす美学 (Phép trừ nhận thức: Nghệ thuật loại bỏ tạp âm)
 * **Thời lượng:** [05:28 - 06:49] (81.0 giây)
 * **Ý tưởng Visual:** Bức điêu khắc bàn tay nghệ nhân đục đẽo tảng đá cẩm thạch xù xì để lộ viên ngọc sáng lấp lánh. Hành động dứt khoát úp màn hình smartphone xuống mặt bàn gỗ sồi.
+* **Hình ảnh AI độc bản:** [v6_cut5_cognitive_subtraction_1793350674711.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut5_cognitive_subtraction_1793350674711.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 凡人は「足し算」で考え、知者は「引き算」で考えます。  
@@ -203,6 +208,7 @@ Học thêm điều gì chưa phải là tất cả; biết "cho phép bản th�
 ### 【CUT 06】 チャーリー・マンガーの格子モデル（Mental Models） (Mạng lưới mô hình tư duy của Charlie Munger)
 * **Thời lượng:** [06:49 - 08:10] (81.0 giây)
 * **Ý tưởng Visual:** Giàn giáo ánh sáng đa chiều đan xen các định luật vật lý, sinh học và kinh tế. Bàn cờ vua cổ điển bên cạnh con lắc Newton đang đung đưa nhịp nhàng.
+* **Hình ảnh AI độc bản:** [v6_cut6_munger_latticework_1793350703581.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut6_munger_latticework_1793350703581.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 投資の神様ウォーレン・バフェットの生涯の相棒、チャーリー・マンガーは、多分野の教養を統合した「格子状メンタルモデル」の重要性を説き続けました。  
@@ -244,6 +250,7 @@ Chính tại giao điểm của những lăng kính đa ngành ấy, yết hầu
 ### 【CUT 07】 逆転の発想（Inversion）：成功を追わず「破滅の回避」を極める (Tư duy nghịch đảo: Tránh né sự diệt vong)
 * **Thời lượng:** [08:10 - 09:32] (82.0 giây)
 * **Ý tưởng Visual:** Mặt nước hồ phẳng lặng phản chiếu ngược bầu trời đêm lấp lánh. Ngọn hải đăng sừng sững quét luồng ánh sáng vững chắc qua cơn sóng gió mịt mùng.
+* **Hình ảnh AI độc bản:** [v6_cut7_inversion_thinking_1793350731462.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut7_inversion_thinking_1793350731462.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 数学者カール・ヤコビの有名な金言に、「反転せよ、常に反転せよ（Invert, always invert）」という言葉があります。  
@@ -284,6 +291,7 @@ Chính thứ "trí tuệ tiêu trừ sự ngu xuẩn" này mới là cội ngu�
 ### 【CUT 08】 二重過程理論の深層：システム2の「燃料管理」 (Quản lý nhiên liệu cho Hệ thống 2)
 * **Thời lượng:** [09:32 - 10:53] (81.0 giây)
 * **Ý tưởng Visual:** Đồng hồ cát cổ bằng đồng với dòng cát phát sáng rực rỡ tượng trưng cho năng lượng nhận thức. Cuốn sách *Thinking, Fast and Slow* mở bên ngọn nến tĩnh mịch.
+* **Hình ảnh AI độc bản:** [v6_cut8_system1_system2_1793350760422.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut8_system1_system2_1793350760422.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 ノーベル経済学賞を受賞したダニエル・カーネマンが提唱した「二重過程理論」。  
@@ -320,6 +328,7 @@ Họ xuất sắc không phải vì có bộ não to hơn người khác, mà v�
 ### 【CUT 09】 メタ認知の監査官：「自分が最も騙されやすい人間である」 (Kiểm toán viên siêu nhận thức)
 * **Thời lượng:** [10:53 - 12:15] (82.0 giây)
 * **Ý tưởng Visual:** Học giả nhìn vào chiếc gương đồng cổ kính và mỉm cười tự vấn. Cán cân công lý cân đo giữa "Cảm xúc tự ái" và "Dữ liệu thực nghiệm".
+* **Hình ảnh AI độc bản:** [v6_cut9_metacognition_mirror_1793350792121.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut9_metacognition_mirror_1793350792121.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 「第一の原則は、自分自身を絶対に騙さないことだ。そして、あなた自身こそが、世界で最も騙しやすい人間なのだ」。  
@@ -355,6 +364,7 @@ Khả năng tự vạch trần sai lầm của bản thân trước khi người
 ### 【CUT 10】 思考の潜伏期（Incubation）：DMNの神秘と無為の力 (Giai đoạn ủ mầm tư duy & Sức mạnh của DMN)
 * **Thời lượng:** [12:15 - 13:36] (81.0 giây)
 * **Ý tưởng Visual:** Khu vườn đá thiền tông Kyoto phủ rêu dưới làn sương sớm tĩnh lặng. Mạng lưới nơ-ron thần kinh âm thầm liên kết trong bóng tối bỗng bừng sáng một tia chớp cảm hứng.
+* **Hình ảnh AI độc bản:** [v6_cut10_incubation_dmn_1793350820663.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut10_incubation_dmn_1793350820663.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 一生懸命ウンウンと唸りながら机にかじりついている姿。  
@@ -394,6 +404,7 @@ Chính trong khoảng trống tĩnh lặng không chút cưỡng cầu ấy, nh�
 ### 【CUT 11】 感情の分離（Emotional Detachment）：問題と自我の完全分断 (Tách rời cảm xúc: Phân ly vấn đề khỏi Bản ngã)
 * **Thời lượng:** [13:36 - 14:58] (82.0 giây)
 * **Ý tưởng Visual:** Bàn tay phẫu thuật viên điềm tĩnh cầm dao mổ dưới ánh đèn phòng phẫu thuật. Ngọn lửa nến thẳng tắp không hề lay chuyển trước cơn gió lùa.
+* **Hình ảnh AI độc bản:** [v6_cut11_emotional_detachment_1793350850823.jpg](file:///home/congnt/.gemini/antigravity/brain/ab250fd5-bd65-43cf-be15-51525e9c4f5a/v6_cut11_emotional_detachment_1793350850823.jpg)
 
 #### 🇯🇵 Lời thoại tiếng Nhật:
 プロジェクトが頓挫したとき、あるいは手痛い批判を浴びたとき、凡人と知者のリアクションは鮮やかに対比されます。  
