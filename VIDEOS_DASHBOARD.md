@@ -14,7 +14,7 @@
 | **03** | **【残酷な真実】群れるほど知性は死ぬ。本当に頭が良い人ほど「他人に興味がない」驚くべき理由**<br>*(Càng tụ tập trí tuệ càng chết. Lý do người thông minh không hứng thú với người khác)* | [`RJ7RAh76WI8`](https://studio.youtube.com/video/RJ7RAh76WI8/edit) | 17:02 | 🟡 **ĐÃ LÊN LỊCH**<br>⏰ 21:30 VN 30/10/2026 | [kich-ban-video-3-tieng-nhat.md](./videos/video-03-solitude-intelligence/kich-ban-video-3-tieng-nhat.md) | [goi-tai-nguyen-dang-video-3.md](./videos/video-03-solitude-intelligence/goi-tai-nguyen-dang-video-3.md) | [prompt-tao-anh-video-3.md](./videos/video-03-solitude-intelligence/prompt-tao-anh-video-3.md) |
 | **04** | **【言語化の脳科学】頭の中を言葉にできる人とできない人の決定的な違い**<br>*(Khoa học não bộ về diễn đạt ngôn từ: 5 bước chuyển tư duy thành lời)* | N/A (Đang dựng) | 15:10 | 🟣 **XONG KỊCH BẢN & ẢNH**<br>(Ready to Build) | [kich-ban-video-4-tieng-nhat.md](./videos/video-04-articulation-brain/kich-ban-video-4-tieng-nhat.md) | [goi-tai-nguyen-dang-video-4.md](./videos/video-04-articulation-brain/goi-tai-nguyen-dang-video-4.md) | [bo-anh-ai-video-4.md](./videos/video-04-articulation-brain/bo-anh-ai-video-4.md) |
 | **05** | **【理解不能】なぜ同じミスを繰り返す？境界知能（IQ70〜84）の人が見ている世界と「ケーキの切れない」脳の正体**<br>*(Trí tuệ ranh giới IQ 70-84 & Não bộ không thể chia chiếc bánh)* | N/A (Master Render 620MB) | 20:13 | 🔵 **ĐÃ SẢN XUẤT MASTER**<br>(Full HD 1080p Zip Lưu Trữ) | [kich-ban-video-5-tieng-nhat.md](./videos/video-05-borderline-iq/kich-ban-video-5-tieng-nhat.md) | [goi-tai-nguyen-dang-video-5.md](./videos/video-05-borderline-iq/goi-tai-nguyen-dang-video-5.md) | [storage/](./videos/video-05-borderline-iq/storage/) |
-| **06** | **【思考心理学】本当に頭が良い人は普段何を考えているのか？凡人と決定的に異なる「脳内独白」と本質思考の正体**<br>*(Tâm lý học tư duy: Người thông minh nghĩ gì trong đầu? Khác biệt về độc thoại nội tâm)* | N/A (Giai đoạn tiền kỳ) | 20:30 | 🟣 **XONG 16/16 ẢNH AI**<br>(Ready for TTS/Render) | [kich-ban-video-6-tieng-nhat.md](./videos/video-06-intellectual-thinking/kich-ban-video-6-tieng-nhat.md) | [goi-tai-nguyen-dang-video-6.md](./videos/video-06-intellectual-thinking/goi-tai-nguyen-dang-video-6.md) | [bo-anh-ai-video-6.md](./videos/video-06-intellectual-thinking/bo-anh-ai-video-6.md) |
+| **06** | **【思考心理学】本当に頭が良い人は普段何を考えているのか？凡人と決定的に異なる「脳内独白」と本質思考の正体**<br>*(Tâm lý học tư duy: Người thông minh nghĩ gì trong đầu? Khác biệt về độc thoại nội tâm)* | N/A (Master Render 689MB) | 21:36 | 🔵 **ĐÃ SẢN XUẤT MASTER**<br>(Full HD 1080p Zip Lưu Trữ) | [kich-ban-video-6-tieng-nhat.md](./videos/video-06-intellectual-thinking/kich-ban-video-6-tieng-nhat.md) | [goi-tai-nguyen-dang-video-6.md](./videos/video-06-intellectual-thinking/goi-tai-nguyen-dang-video-6.md) | [storage/](./videos/video-06-intellectual-thinking/storage/) |
 
 ---
 
@@ -46,7 +46,8 @@
 ### 📌 Video #6: 本当に頭が良い人の脳内独白 (Inner Monologue of Geniuses)
 * **Chủ đề:** Giải mã suy nghĩ thời gian thực của người thông minh; chuyển từ "tư duy nhai lại" sang "tư duy cấu trúc".
 * **Nền tảng học thuật:** Nguyên lý đệ nhất (First Principles - Aristotle), Mô hình mạng lưới đa ngành & Tư duy nghịch đảo (Charlie Munger), Hệ thống 2 tiết kiệm năng lượng (Kahneman), Default Mode Network (Marcus Raichle).
-* **Tiến độ:** 100% kịch bản Z-Mech 75 clips, gói SEO và bộ 16 prompts.
+* **Trạng thái sản xuất:** Đã hoàn thành 100% Master Render (Thời lượng: 1296.02s ~ 21 phút 36 giây | 1080p 30fps | Dung lượng: 689.53 MB).
+* **Kho lưu trữ Master:** Nằm tại `videos/video-06-intellectual-thinking/storage/` (gồm Thumbnail Master Phương án B1, 16 file zip split và script tự động giải nén).
 
 ---
 
